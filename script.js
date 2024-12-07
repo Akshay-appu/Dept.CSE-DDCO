@@ -38,7 +38,7 @@ $(document).ready(function () {
   // Scroll up Button script end
 
   // animation Script for display
-  const animationScript = ["A assisstent professor", "In DDCO[BCS302]", "At Dr.T.THIMMAIAH INSTITUTE OF TECHNOLOGY"];
+  const animationScript = ["assisstent professor", "In DDCO[BCS302]", "At Dr.T.THIMMAIAH INSTITUTE OF TECHNOLOGY"];
 
   // Typing animation script start
   new Typed(".typing", {
