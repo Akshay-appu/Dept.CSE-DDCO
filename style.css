@@ -225,7 +225,7 @@ section .title::after {
 
 /* about section styling */
 .about .title::after {
-  content: "BCS302";
+  content: "Who am I";
 }
 
 .about .about-content .left {
@@ -321,7 +321,7 @@ section .title::after {
 /* skills section styling */
 .skills .title::after {
   background: #111;
-  content: "Psidium guajava";
+  content: "click here for every updates";
 }
 .skills .skills-content .column {
   width: calc(50% - 30px);
@@ -365,7 +365,7 @@ section .title::after {
 
 /* Project section styling */
 .projects .title::after {
-  content: "check our's work";
+  content: "check All Modules";
 }
 .projects .carousel .card {
   background: #222;
@@ -429,7 +429,7 @@ section .title::after {
 /* contact section styling */
 .contact .title::after {
   background: #111;
-  content: "And uses";
+  content: "get in touch";
 }
 .contact .contact-content .column {
   width: calc(50% - 30px);
