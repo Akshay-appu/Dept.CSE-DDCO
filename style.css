@@ -220,7 +220,7 @@ section .title::after {
 }
 .skills .title::before,
 .contact .title::before {
-  background: url(Img/dr-t-thimaiah-lg111.jpg) no-repeat center;
+   background: #fff;
 }
 
 /* about section styling */
